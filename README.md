@@ -24,3 +24,7 @@ Week 6's Screenshots are [here](/Week%206/week6pt1.png), [here](/Week%206/week6p
 ### Week 7
 All Week 7 material can be found [here](/Week%207/).  
 Week 7's Screenshots are [here](/Week%207/week7pt1.png) and [here](/Week%207/week7pt2.png).
+
+### Assignment
+All Assignment material can be found [here](/Assignment/).  
+All of Assignment's Screenshots are [here](/Assignment/AssignmentPt1.png), [here](/Assignment/AssignmentPt2.png) and [here](/Assignment/AssignmentPt3.png).
