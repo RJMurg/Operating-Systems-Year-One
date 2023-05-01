@@ -20,3 +20,7 @@ Week 5's Screenshot is [here](/Week%205/Week%205.png).
 ### Week 6
 All Week 6 material can be found [here](/Week%206/).  
 Week 6's Screenshots are [here](/Week%206/week6pt1.png), [here](/Week%206/week6pt2.png), [here](/Week%206/week6pt3.png), [here](/Week%206/week6pt4.png), and [here](/Week%206/week6pt5.png)
+
+### Week 7
+All Week 7 material can be found [here](/Week%207/).  
+Week 7's Screenshots are [here](/Week%207/week7pt1.png) and [here](/Week%207/week7pt2.png).
